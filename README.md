@@ -185,7 +185,7 @@ public class LazySingleton01 {
 
 输出的结果如下图所示，输出的地址值不相同，可知得到了很多个不同的`INSTANCE`
 
-![image-20200817130200949](C:\Users\15460\AppData\Roaming\Typora\typora-user-images\image-20200817130200949.png)
+![image-20200817130200949](images/image-20200817130200949.png)
 
 #### (4) 懒汉式二
 
